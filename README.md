@@ -19,7 +19,7 @@ comp3005-assignment3-students/
 │   └── seed.sql            # the INSERT commands
 │
 ├── app/
-│   └── main.py             # (or main.java, app.js etc. depending on your language)
+│   └── main.py             
 │
 ├── README.md              
 
