@@ -10,6 +10,21 @@ Small Python app that connects to a PostgreSQL database and performs CRUD on a `
 - PostgreSQL 17 + pgAdmin 4
 - Python 3.x, `psycopg2-binary`, `python-dotenv`
 
+## Repo Structure
+```bash 
+comp3005-assignment3-students/
+│
+├── db/
+│   ├── schema.sql          # the CREATE TABLE command
+│   └── seed.sql            # the INSERT commands
+│
+├── app/
+│   └── main.py             # (or main.java, app.js etc. depending on your language)
+│
+├── README.md               # you’ll fill this later
+└── docs/
+    └── screenshots/ 
+
 
 ## Prerequisites
 - PostgreSQL installed and running on localhost:5432
