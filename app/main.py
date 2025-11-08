@@ -115,9 +115,11 @@ def demo():
     # 1) READ - should show your initial 3 rows
     getAllStudents()
 
+
     # 2) CREATE - insert a new student
     addStudent("Alice", "Wonder", "alice.wonder@example.com", "2023-09-03")
     getAllStudents()
+
 
     # 3) UPDATE - change Alice's email (find her id first)
     # We'll fetch the most recent row (highest id) for simplicity in this demo
@@ -129,10 +131,10 @@ def demo():
     updateStudentEmail(newest_id, "alice.w@example.com")
     getAllStudents()
 
-    # 4) DELETE - remove the newest row
+    #4) DELETE - remove the newest row
     deleteStudent(newest_id)
     getAllStudents()
 
+
 if __name__ == "__main__":
-    # You can run the scripted demo, or comment it out and call functions manually.
     demo()
