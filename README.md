@@ -21,9 +21,8 @@ comp3005-assignment3-students/
 ├── app/
 │   └── main.py             # (or main.java, app.js etc. depending on your language)
 │
-├── README.md               # you’ll fill this later
-└── docs/
-    └── screenshots/ 
+├── README.md              
+
 
 
 ## Prerequisites
