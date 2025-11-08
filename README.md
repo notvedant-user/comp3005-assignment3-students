@@ -38,7 +38,7 @@ comp3005-assignment3-students/
 5. Verify: `SELECT * FROM students;` → should show 3 rows.
 
 ## Setup (App)
-```bash
+
 # clone repo
 git clone https://github.com/<your-username>/comp3005-assignment3-students.git
 cd comp3005-assignment3-students
