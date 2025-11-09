@@ -131,6 +131,7 @@ def demo():
     updateStudentEmail(newest_id, "alice.w@example.com")
     getAllStudents()
 
+
     #4) DELETE - remove the newest row
     deleteStudent(newest_id)
     getAllStudents()

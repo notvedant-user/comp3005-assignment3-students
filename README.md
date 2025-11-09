@@ -40,8 +40,8 @@ comp3005-assignment3-students/
 ## Setup (App)
 
 # clone repo
-git clone https://github.com/<your-username>/comp3005-assignment3-students.git
-cd comp3005-assignment3-students
+git clone https://github.com/notvedant-user/comp3005-assignment3-students.git
+
 
 # venv
 python -m venv .venv
