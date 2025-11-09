@@ -41,7 +41,7 @@ comp3005-assignment3-students/
 
 # clone repo
 git clone https://github.com/notvedant-user/comp3005-assignment3-students.git
-
+cd comp3005-assignment3-students
 
 # venv
 python -m venv .venv
