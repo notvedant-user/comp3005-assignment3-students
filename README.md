@@ -96,3 +96,8 @@ Expected Console Output Summary
 Inserted student_id=5
 Updated email for student_id=5 -> alice.w@example.com
 Deleted student_id=5
+
+
+
+#VIDEO DEMONSTATION 
+-> VIDEO LINK : - https://youtu.be/pmd28kD8iAE
